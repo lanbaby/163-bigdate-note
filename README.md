@@ -85,6 +85,39 @@
 
 8. [构建复杂日志收集系统][32]
 
+## 结构化查询：Hive
+
+1. [Hive学习资料][33]
+
+2. [Hive解决了什么问题][34]
+
+3. [Hive擅长什么][35]
+
+4. [Hive结构与数据仓库][36]
+
+5. [数据模型与元数据][37]
+
+6. [Hive安装与配置][38]
+
+7. [创建和管理Hive中的数据库][39]
+
+8. [写一个基本的查询语句][40]
+
+9. [子查询和关联表][41]
+
+10. [使用简单函数][42]
+
+10. [使用聚合函数][43]
+
+10. [利用正则表达式精确提取信息][44]
+
+11. [使用窗口函数][45]
+
+12. [行转列与列转行][46]
+
+13. [用户自定义函数（UDF）的使用][47]
+
+14. [Hive优化案例][48]
 
 [1]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%EF%BC%9AHDFS/HDFS%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md
 [2]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%EF%BC%9AHDFS/HDFS%E6%93%8D%E4%BD%9C%E9%AA%8C%E8%AF%81.md
@@ -118,3 +151,19 @@
 [30]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%E5%92%8C%E9%A2%84%E5%A4%84%E7%90%86%EF%BC%9AFlume/Flume%E9%85%8D%E7%BD%AE%E7%A4%BA%E4%BE%8B.md 
 [31]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%E5%92%8C%E9%A2%84%E5%A4%84%E7%90%86%EF%BC%9AFlume/Flume%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE.md
 [32]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%E5%92%8C%E9%A2%84%E5%A4%84%E7%90%86%EF%BC%9AFlume/%E6%9E%84%E5%BB%BA%E5%A4%8D%E6%9D%82%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E7%B3%BB%E7%BB%9F.md
+[33]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/Hive%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md
+[34]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/Hive%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98.md
+[35]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/Hive%E6%93%85%E9%95%BF%E4%BB%80%E4%B9%88.md
+[36]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/Hive%E6%9C%BA%E6%9E%84%E4%B8%8E%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93.md
+[37]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%85%83%E6%95%B0%E6%8D%AE.md
+[38]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/Hive%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md
+[39]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E5%88%9B%E5%BB%BA%E5%92%8C%E7%AE%A1%E7%90%86Hive%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93.md
+[40]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E5%86%99%E4%B8%80%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5.md
+[41]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E5%AD%90%E6%9F%A5%E8%AF%A2%E5%92%8C%E5%85%B3%E8%81%94%E8%A1%A8.md
+[42]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E4%BD%BF%E7%94%A8%E7%AE%80%E5%8D%95%E5%87%BD%E6%95%B0.md
+[43]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E4%BD%BF%E7%94%A8%E8%81%9A%E5%90%88%E5%87%BD%E6%95%B0.md
+[44]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E5%88%A9%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%B2%BE%E7%A1%AE%E6%8F%90%E5%8F%96%E4%BF%A1%E6%81%AF.md
+[45]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E4%BD%BF%E7%94%A8%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.md
+[46]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E8%A1%8C%E8%BD%AC%E5%88%97%E4%B8%8E%E5%88%97%E8%BD%AC%E8%A1%8C.md
+[47]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/%E7%94%A8%E6%88%B7%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0UDH%E7%9A%84%E4%BD%BF%E7%94%A8.md
+[48]: https://github.com/jiaoqiyuan/163-bigdate-note/blob/master/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%EF%BC%9AHive/Hive%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B.md
